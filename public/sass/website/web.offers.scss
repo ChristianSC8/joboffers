@@ -1,0 +1,38 @@
+
+@media (min-width: 575px) {
+    .offers-section {
+        .container {
+            max-width: 540px;
+            width: 100%;
+            margin-inline: auto;
+        }
+    }
+}
+
+@media (min-width: 768px) {
+    .offers-section {
+        .container {
+            max-width: 720px;
+
+        }
+    }
+}
+
+@media (min-width: 992px) {
+
+    .offers-section {
+        .container {
+            max-width: 930px;
+
+        }
+    }
+}
+
+@media (min-width: 1200px) {
+
+    .offers-section {
+        .container {
+            max-width: 1140px;
+        }
+    }
+}

@@ -1,0 +1,100 @@
+:root {
+  /** -----> Colors <-----**/
+  --primary-color: hsl(225, 87%, 57%);
+  --secondary-color:#sdfsdf;
+  --background-color:#12141d;
+  --primary-text-color:#020035;
+  --secondary-text-color:#040517;
+  --border-color:hsl(222, 20%, 90%);
+  --border-dark-color:#2a2b34;
+  --muted-color:hsl(210, 18%, 54%);
+  --muted-color-two:hsl(214, 12%, 74%);
+  --white-color: hsl(0, 0%, 100%);
+  /** -----> Font Family <-----**/
+  --font-family-valera: "Varela Round", sans-serif;
+  --font-family-noto: "Poppins", sans-serif;
+  --font-family-primary:
+  --font-family-secondary:
+  /** -----> Font Size <-----**/
+  --font-size-xs:0.75rem;
+  --font-size-sm:0.875rem;
+  --font-size-base:1rem;
+  --font-size-lg:1.125rem;
+  --font-size-xl:1.25rem;
+  --font-size-2xl:1.5rem;
+  --font-size-3xl:1.875rem;
+  --font-size-4xl:2.25rem;
+  --font-size-5xl:3rem;
+  --font-size-6xl:3.75rem;
+  --font-size-7xl:4.5rem;
+  --font-size-8xl:6rem;
+  /** -----> Border Radius <-----**/
+  --border-radius-xs: 2px;
+  --border-radius-small: 3px;
+  --border-radius-medium: 5px;
+  --border-radius-large: 8px;
+  --border-radius-full: 9999px;
+  /** -----> Transitions <-----**/
+  --transition-one: 0.25s ease;
+  --transition-two: 0.5s ease;
+}
+
+/** -----< RESET >----- **/
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  background: none;
+  font: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+img,
+ion-icon,
+button,
+a {
+  display: block;
+}
+
+span {
+  display: inline-block;
+}
+
+html {
+  overscroll-behavior: contain;
+}
+
+input {
+  display: block;
+  width: 100%;
+  font: inherit;
+}
+
+input::placeholder {
+  font: inherit;
+}
+
+body {
+  background: var(--white-color);
+  font-family: var(--font-family-noto);
+}
+
+.container {
+  padding-inline: 16px;
+}
+
+/*# sourceMappingURL=style.css.map */

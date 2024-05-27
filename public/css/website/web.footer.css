@@ -1,0 +1,94 @@
+.footer {
+  background: var(--background-color);
+}
+.footer .container {
+  transition: var(--transition-two);
+}
+.footer .container .footer-nav ul {
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.footer .container .footer-nav ul a {
+  padding: 0 10px;
+  font-size: var(--font-size-ms);
+  color: var(--white-color);
+}
+.footer .container .footer-nav ul a:hover {
+  color: var(--primary-color);
+}
+.footer .container .social-media-nav .icons-social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.footer .container .social-media-nav .icons-social li a {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--border-radius-small);
+}
+.footer .container .social-media-nav .icons-social li a svg {
+  width: 25px;
+  height: 25px;
+  fill: var(--border-color);
+}
+.footer .container .social-media-nav .icons-social li a:hover {
+  background: var(--border-dark-color);
+}
+.footer .container .spacer-footer {
+  width: 100%;
+  height: 1px;
+  background: var(--border-dark-color);
+}
+.footer .container .site-footer {
+  padding: 15px 0;
+  display: flex;
+  justify-content: center;
+}
+.footer .container .site-footer p {
+  text-align: center;
+  color: var(--muted-color-two);
+  font-size: var(--font-size-sm);
+}
+
+@media (min-width: 575px) {
+  .footer .container {
+    max-width: 540px;
+    width: 100%;
+    margin-inline: auto;
+  }
+}
+@media (min-width: 768px) {
+  .footer .container {
+    max-width: 720px;
+  }
+  .footer .container .footer-nav ul a {
+    font-size: var(--font-size-lg);
+  }
+  .footer .container .social-media-nav .icons-social li a svg {
+    width: 30px;
+    height: 30px;
+  }
+  .footer .container .site-footer p {
+    font-size: var(--font-size-base);
+  }
+}
+@media (min-width: 992px) {
+  .footer .container {
+    max-width: 930px;
+  }
+}
+@media (min-width: 1200px) {
+  .footer .container {
+    max-width: 1140px;
+  }
+}
+
+/*# sourceMappingURL=web.footer.css.map */

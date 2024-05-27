@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252.97213641302415 114.32939672275916" width="252.97213641302415" height="114.32939672275916"><symbol id="image-e60195c6aff860b638ca297e94560b4224c1518a"><image width="100%" height="100%" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSJub25lIj4KICA8cGF0aCBkPSJNNi42MzU2NCAyLjI4NzUzQzUuOTgzMjUgMS43NTAzNyA1IDIuMjE0NDUgNSAzLjA1OTUyVjE3LjA1ODNDNSAxNy45ODQ0IDYuMTUwMjUgMTguNDEzIDYuNzU2MjIgMTcuNzEyN0wxMC4yNzk5IDEzLjY0MDJDMTAuNTY0OCAxMy4zMTA5IDEwLjk3ODggMTMuMTIxNyAxMS40MTQyIDEzLjEyMTdMMTcuMDA2MSAxMy4xMjE3QzE3Ljk0NDQgMTMuMTIxNyAxOC4zNjYxIDExLjk0NjEgMTcuNjQxOCAxMS4zNDk3TDYuNjM1NjQgMi4yODc1M1oiIGZpbGw9IiNmYTlhMDIiLz4KPC9zdmc+"></image></symbol>
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <g stroke-linecap="round"><g transform="translate(7.330824318642954 39.15225248743036) rotate(22.108420283791233 75.94529803012256 -7.744781280155394)"><path d="M0 0 C7.97 3.13, 37.64 22.62, 47.83 18.79 C58.03 14.96, 52.03 -16.86, 61.16 -22.96 C70.28 -29.06, 90.34 -15.9, 102.59 -17.79 C114.85 -19.67, 126.48 -33.92, 134.7 -34.28 C142.91 -34.64, 149.02 -22.35, 151.89 -19.96 M0 0 C7.97 3.13, 37.64 22.62, 47.83 18.79 C58.03 14.96, 52.03 -16.86, 61.16 -22.96 C70.28 -29.06, 90.34 -15.9, 102.59 -17.79 C114.85 -19.67, 126.48 -33.92, 134.7 -34.28 C142.91 -34.64, 149.02 -22.35, 151.89 -19.96" stroke="#fbc619" stroke-width="4" fill="none"></path></g></g><mask></mask><g transform="translate(158.3413265295817 53.987604556483916) rotate(339.1455419604216 12.862797855229473 12.862797855229587)"><use href="#image-e60195c6aff860b638ca297e94560b4224c1518a" width="26" height="26" opacity="1"></use></g><g stroke-linecap="round" transform="translate(179.31631362310873 78.1464448413509) rotate(0 31.82791139495771 13.091475940704129)"><path d="M0 0 L63.66 0 L63.66 26.18 L0 26.18" stroke="none" stroke-width="0" fill="#fd9800"></path><path d="M0 0 C12.76 0, 25.53 0, 63.66 0 M0 0 C20.27 0, 40.55 0, 63.66 0 M63.66 0 C63.66 6.68, 63.66 13.36, 63.66 26.18 M63.66 0 C63.66 9.97, 63.66 19.94, 63.66 26.18 M63.66 26.18 C40.4 26.18, 17.14 26.18, 0 26.18 M63.66 26.18 C50.42 26.18, 37.18 26.18, 0 26.18 M0 26.18 C0 15.97, 0 5.75, 0 0 M0 26.18 C0 20.35, 0 14.53, 0 0" stroke="#fd9800" stroke-width="1" fill="none"></path></g><g transform="translate(203.00336615213018 85.69756699432821) rotate(0 8.83062744140625 5.540353667715635)"><text x="0" y="8.864754059706026" font-family="Helvetica, Segoe UI Emoji" font-size="9.63539768298373px" fill="#ffffff" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Two</text></g></svg>
